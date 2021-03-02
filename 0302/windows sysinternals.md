@@ -33,3 +33,7 @@ Parameter	Description
 ```
 在Windows搜尋欄輸入[電腦管理]①，然後點選[以系統管理員身分執行]
 ```
+## 環境變數管理
+```
+dir env:
+```
